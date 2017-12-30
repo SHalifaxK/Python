@@ -1,2 +1,2 @@
 # Python
-Simple python snippets
+Must have hello world example
