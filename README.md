@@ -1,2 +1,2 @@
 # Python
-Must have hello world example
+loops on python: for, while, for each + decition if-else
