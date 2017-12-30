@@ -1,2 +1,2 @@
 # Python
-Simple python snippets
+Simple python snippets (python creater that 3.0)
