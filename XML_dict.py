@@ -5,7 +5,7 @@ xmltodics usage
 import xmltodict
 
 '''
-Use context manager to read in the xml and conver it to dict
+Use context manager to read in the xml and conver it to dict and save the result to tree variable
 '''
 
 with open('L1_param.xml','r') as f:
