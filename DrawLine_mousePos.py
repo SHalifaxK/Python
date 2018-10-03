@@ -8,11 +8,6 @@ screen = pygame.display.set_mode((600, 700))
 pygame.display.set_caption("Hiirulainen")
 screen.fill((255, 255, 255))
 
-
-def drawLine(x1, y1, x2, y2):
-    pygame.draw.line(screen, (0, 255, 0), (x1, y1), (x2, y2))
-
-
 loop = True
 
 image = pygame.image.load('C:\\Users\\srpropro\\Desktop\\pytis\\maisema.jpg')
